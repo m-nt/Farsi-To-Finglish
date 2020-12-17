@@ -27,5 +27,211 @@
         "mtn": ["ma", "me", "mo"],
         "mtu": "m",
         "l": "m"
+    },
+    "ا": {
+        "tier": 2,
+        "f": ["A", "E", "O"],
+        "mtn": "a",
+        "mtu": "a",
+        "l": "a"
+    },
+    "آ": {
+        "tier": 2,
+        "f": ["A", "A", "A"],
+        "mtn": "a",
+        "mtu": "a",
+        "l": "a"
+    },
+    "ب": {
+        "tier": 1,
+        "f": ["Ba", "Be", "Bo"],
+        "mtn": ["ba", "be", "bo"],
+        "mtu": "b",
+        "l": "b"
+    },
+    "پ": {
+        "tier": 1,
+        "f": ["Pa", "Pe", "Po"],
+        "mtn": ["pa", "pe", "po"],
+        "mtu": "p",
+        "l": "p"
+    },
+    "ط": {
+        "tier": 1,
+        "f": ["Ta", "Te", "To"],
+        "mtn": ["ta", "te", "to"],
+        "mtu": "t",
+        "l": "t"
+    },
+    "ت": {
+        "tier": 1,
+        "f": ["Ta", "Te", "To"],
+        "mtn": ["ta", "te", "to"],
+        "mtu": "t",
+        "l": "t"
+    },
+    "ث": {
+        "tier": 1,
+        "f": ["Sa", "Se", "So"],
+        "mtn": ["sa", "se", "so"],
+        "mtu": "s",
+        "l": "s"
+    },
+    "ص": {
+        "tier": 1,
+        "f": ["Sa", "Se", "So"],
+        "mtn": ["sa", "se", "so"],
+        "mtu": "s",
+        "l": "s"
+    },
+    "س": {
+        "tier": 1,
+        "f": ["Sa", "Se", "So"],
+        "mtn": ["sa", "se", "so"],
+        "mtu": "s",
+        "l": "s"
+    },
+    "ج": {
+        "tier": 1,
+        "f": ["Ja", "Je", "Jo"],
+        "mtn": ["ja", "je", "jo"],
+        "mtu": "j",
+        "l": "j"
+    },
+    "چ": {
+        "tier": 1,
+        "f": ["Cha", "Che", "Cho"],
+        "mtn": ["cha", "che", "cho"],
+        "mtu": "ch",
+        "l": "ch"
+    },
+    "ه": {
+        "tier": 2,
+        "f": ["Ha", "He", "Ho"],
+        "mtn1": ["ha", "he", "ho"],
+        "mtn":"h",
+        "mtu": "h",
+        "l": "h"
+    },
+    "خ": {
+        "tier": 1,
+        "f": ["Kha", "Khe", "Kho"],
+        "mtn": ["kha", "khe", "kho"],
+        "mtu": "kh",
+        "l": "kh"
+    },
+    "د": {
+        "tier": 1,
+        "f": ["Da", "De", "Do"],
+        "mtn": ["da", "de", "do"],
+        "mtu": "d",
+        "l": "d"
+    },
+    "ز": {
+        "tier": 1,
+        "f": ["Za", "Ze", "Zo"],
+        "mtn": ["za", "ze", "zo"],
+        "mtu": "z",
+        "l": "z"
+    },
+    "ض": {
+        "tier": 1,
+        "f": ["Za", "Ze", "Zo"],
+        "mtn": ["za", "ze", "zo"],
+        "mtu": "z",
+        "l": "z"
+    },
+    "ظ": {
+        "tier": 1,
+        "f": ["Za", "Ze", "Zo"],
+        "mtn": ["za", "ze", "zo"],
+        "mtu": "z",
+        "l": "z"
+    },
+    "ذ": {
+        "tier": 1,
+        "f": ["Za", "Ze", "Zo"],
+        "mtn": ["za", "ze", "zo"],
+        "mtu": "z",
+        "l": "z"
+    },
+    "ش": {
+        "tier": 1,
+        "f": ["Sha", "She", "Sho"],
+        "mtn": ["sha", "she", "sho"],
+        "mtu": "sh",
+        "l": "sh"
+    },
+    "ع": {
+        "tier": 2,
+        "f": ["A", "E", "O"],
+        "mtn": "a",
+        "mtu": "a",
+        "l": "e"
+    },
+    "غ": {
+        "tier": 1,
+        "f": ["Gha", "Ghe", "Gho"],
+        "mtn": ["gha", "ghe", "gho"],
+        "mtu": "gh",
+        "l": "gh"
+    },
+    "ق": {
+        "tier": 1,
+        "f": ["Gha", "Ghe", "Gho"],
+        "mtn": ["gha", "ghe", "gho"],
+        "mtu": "gh",
+        "l": "gh"
+    },
+    "ف": {
+        "tier": 1,
+        "f": ["Fa", "Fe", "Fo"],
+        "mtn": ["fa", "fe", "fo"],
+        "mtu": "f",
+        "l": "f"
+    },
+    "گ": {
+        "tier": 1,
+        "f": ["Ga", "Ge", "Go"],
+        "mtn": ["ga", "ge", "go"],
+        "mtu": "g",
+        "l": "g"
+    },
+    "ل": {
+        "tier": 1,
+        "f": ["La", "Le", "Lo"],
+        "mtn": ["la", "le", "lo"],
+        "mtu": "l",
+        "l": "l"
+    },
+    "ن": {
+        "tier": 1,
+        "f": ["Na", "Ne", "No"],
+        "mtn": ["na", "ne", "no"],
+        "mtu": "n",
+        "l": "n"
+    },
+    "أ": {
+        "tier": 2,
+        "f": ["A", "A", "A"],
+        "mtn": "a",
+        "mtu": "a",
+        "l": "a"
+    },
+    "ئ": {
+        "tier": 3,
+        "f": ["E", "E", "E"],
+        "mtn": ["ei", "a", "e"],
+        "mtu": "",
+        "l": ""
+    },
+    "و": {
+        "tier": 2,
+        "f": ["Va", "Ve", "Vo"],
+        "mtn": "v",
+        "mtu": "",
+        "l": "v"
     }
+
+    
 }
