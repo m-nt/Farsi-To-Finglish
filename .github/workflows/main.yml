@@ -26,13 +26,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-      # Runs a single command using the runners shell
-      - name: print repository list
-        run: ls
-        
-      # Runs a single command using the runners shell
-      - name: print repository name
-        run: echo ${{ toJSON(github.event.repository) }} 
+      - env:
+          EVENT_CONTEXT: ${{ toJSON(github.event) }}
+        run: |
+          echo $EVENT_CONTEXT
 
