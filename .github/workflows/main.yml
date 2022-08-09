@@ -34,5 +34,5 @@ jobs:
         
       # Runs a single command using the runners shell
       - name: print repository name
-        run: echo ${{ github.event.repository }} 
+        run: echo ${{ toJSON(github.event.repository) }} 
 
